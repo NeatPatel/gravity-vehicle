@@ -25,7 +25,7 @@ Welcome to this vehicle building project! Today, we're going to guide you throug
 
 Using the laser cutter, design and cut out the chassis components from the specified metal. The body frame can be cut to 66.1 cm x 25.4cm. Below is an image of the 3D printed ball bearing holders:
 
-![]()
+![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/bearing_3d_print_design.png?raw=true)
 
 Assembly begins with attaching 3D printed bearing holders to the metal body, and then metal bars, followed by screws (12, not 13), axles (2), green gear (failed experiment), wood block (initial alignment), metal hook, and egg resting components
 
