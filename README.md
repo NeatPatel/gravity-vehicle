@@ -1,4 +1,4 @@
-# Building a Precision Landing Vehicle with Wingnut Stopping System
+![image](https://github.com/NeatPatel/gravity-vehicle/assets/147283432/2d109d2f-a82d-492e-9e94-7d91e0e4b92f)# Building a Precision Landing Vehicle with Wingnut Stopping System
 
 Welcome to this vehicle building project! Today, we're going to guide you through the process of creating a precision landing vehicle using a wingnut stopping system. With just a few materials and some creativity, you'll be able to propel your vehicle down a ramp and land it at a precise distance every time. Let's get started!
 
@@ -15,7 +15,10 @@ Welcome to this vehicle building project! Today, we're going to guide you throug
 - One 2.54 cm stainless steel cup hook with threading (for holding vehicle in place on ramp)
 - Four larger screws for wheels (1.524 cm diameter of thread) with washers of the same diameter, and four hexes to hold in place, 1.524 cm diameter on one side and other side of diameter 0.79375 cm
 - Green gear for back axles
-- Safety resting dock made from an old wood block, slightly larger than necessary dimensions, shaved to dimensions with sandpaper, and placed on "bamboo stick" dowels, also shaved until reaching dimensions
+- Safety resting dock made from a wood block, slightly larger than necessary dimensions, shaved to dimensions with sandpaper, and placed on "bamboo stick" dowels, also shaved until reaching dimensions
+
+![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/vehicle_backstop_diagram.jpg?raw=true)
+
 - Wood glue
 - Any regular building tools (screwdrivers, hammer, drill)
 
@@ -27,44 +30,23 @@ Using the laser cutter, design and cut out the chassis components from the speci
 
 ![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/bearing_3d_print_design.png?raw=true)
 
-Assembly begins with attaching 3D printed bearing holders to the metal body, and then metal bars, followed by screws (12, not 13), axles (2), green gear (failed experiment), wood block (initial alignment), metal hook, and egg resting components
+Assembly begins with attaching 3D printed bearing holders to the metal body, and then metal bars, followed by screws (12) using a screw driver, axles (2) in the front and back areas of the vehicle, wood block in the back for the metal hook, and metal hook which screws into the wood block
 
-Additional components of the building were added on as well: the wheels, hexes, washers, nuts, and screws as needed.
+### 2. Assemble Wheel System
 
+Attach the rollerblade wheels to the chassis using the larger screws, washers, and hexes. Ensure they are securely fastened for smooth rolling. Now the resulting build should be similar to the following image:
 
-### 2. 3D Print Additional Parts
+![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/vehicle_bottom.png?raw=true)
 
-Utilize the 3D printer and ABS filament to print any additional parts needed for the vehicle, such as brackets, mounts, or covers.
-
-### 3. Assemble Wheel System
-
-Attach the rollerblade wheels to the chassis using the larger screws, washers, and hexes. Ensure they are securely fastened for smooth rolling.
-
-### 4. Install Threaded Rods
-
-Insert the threaded rods through the chassis, positioning them for the front and back axles of the vehicle.
-
-### 5. Add Ball Bearings
+### 3. Add Ball Bearings
 
 Place the ball bearings onto the threaded rods to act as supports for the wheels, ensuring they spin freely.
 
-### 6. Construct Braking System
+### 4. Construct Safety Resting Dock
 
-Attach the wingnut to the front threaded rod, ensuring it can be tightened to act as a brake. Use the small wood block to align the wingnut properly.
+Build the safety resting dock using the wood block, shaving it down to the necessary dimensions with sandpaper. Secure it in place using wood glue.
 
-### 7. Attach Cup Hook
-
-Screw the stainless steel cup hook onto the chassis, providing a means to hold the vehicle in place on the ramp before launching.
-
-### 8. Install Green Gear
-
-Attach the green gear to the back axles, ensuring it meshes properly with the rollerblade wheels for propulsion.
-
-### 9. Construct Safety Resting Dock
-
-Build the safety resting dock using the old wood block, shaving it down to the necessary dimensions with sandpaper. Secure it in place using wood glue.
-
-### 10. Finalize Assembly
+### 5. Finalize Assembly
 
 Double-check all connections and ensure everything is securely fastened. Make any necessary adjustments to ensure the vehicle is balanced and stable.
 
