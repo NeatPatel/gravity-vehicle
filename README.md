@@ -17,12 +17,20 @@ Welcome to this vehicle building project! Today, we're going to guide you throug
 - Green gear for back axles
 - Safety resting dock made from an old wood block, slightly larger than necessary dimensions, shaved to dimensions with sandpaper, and placed on "bamboo stick" dowels, also shaved until reaching dimensions
 - Wood glue
+- Any regular building tools (screwdrivers, hammer, drill)
 
 ## Step-by-Step Guide:
 
 ### 1. Design and Cut Chassis Components
 
-Using the laser cutter, design and cut out the chassis components from the specified metal. Ensure you have all the necessary parts according to your design.
+Using the laser cutter, design and cut out the chassis components from the specified metal. The body frame can be cut to 66.1 cm x 25.4cm. Below is an image of the 3D printed ball bearing holders:
+
+![]()
+
+Assembly begins with attaching 3D printed bearing holders to the metal body, and then metal bars, followed by screws (12, not 13), axles (2), green gear (failed experiment), wood block (initial alignment), metal hook, and egg resting components
+
+Additional components of the building were added on as well: the wheels, hexes, washers, nuts, and screws as needed.
+
 
 ### 2. 3D Print Additional Parts
 
