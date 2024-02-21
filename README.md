@@ -1,4 +1,6 @@
-![image](https://github.com/NeatPatel/gravity-vehicle/assets/147283432/2d109d2f-a82d-492e-9e94-7d91e0e4b92f)# Building a Precision Landing Vehicle with Wingnut Stopping System
+# Building a Precision Landing Vehicle with Wingnut Stopping System
+
+![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/gravity_vehicle_image.png?raw=true)
 
 Welcome to this vehicle building project! Today, we're going to guide you through the process of creating a precision landing vehicle using a wingnut stopping system. With just a few materials and some creativity, you'll be able to propel your vehicle down a ramp and land it at a precise distance every time. Let's get started!
 
@@ -46,9 +48,13 @@ Place the ball bearings onto the threaded rods to act as supports for the wheels
 
 Build the safety resting dock using the wood block, shaving it down to the necessary dimensions with sandpaper. Secure it in place using wood glue.
 
+The current build show now look as follows from above:
+
+![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/vehicle_top.png?raw=true)
+
 ### 5. Finalize Assembly
 
-Double-check all connections and ensure everything is securely fastened. Make any necessary adjustments to ensure the vehicle is balanced and stable.
+Double-check all pieces and ensure everything is securely fastened. Make any necessary adjustments to ensure the vehicle is balanced and stable.
 
 Congratulations! You've successfully built a precision landing vehicle with a wingnut stopping system. Now it's time to test it out on the ramp and see how accurately you can land it at your desired distance.
 
