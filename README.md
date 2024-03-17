@@ -2,7 +2,7 @@
 
 ![](https://github.com/NeatPatel/gravity-vehicle/blob/main/images/gravity_vehicle_image.png?raw=true)
 
-Welcome to this vehicle building project! Today, we're going to guide you through the process of creating a precision landing vehicle using a wingnut stopping system. With just a few materials and some creativity, you'll be able to propel your vehicle down a ramp and land it at a precise distance every time. Let's get started!
+Welcome to the gravity propelled vehicle building project! Today, we're going to guide you through the process of creating a precision landing vehicle using a wingnut stopping system. With just a few materials and some creativity, you'll be able to propel your vehicle down a ramp and land it at a precise distance every time. Let's get started!
 
 ## Materials Needed:
 
